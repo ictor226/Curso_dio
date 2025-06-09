@@ -1,6 +1,4 @@
 ﻿using ExemploExplorando.Models;
-
-
 Pessoa p1 = new Pessoa(nome: "Porche", sobrenome:"GT3 RS");
 Pessoa p2 = new Pessoa(nome:"Ferrari", sobrenome:"458 spyder");
 
