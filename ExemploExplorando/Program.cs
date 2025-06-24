@@ -50,3 +50,6 @@ foreach (string linha in linhas)
 
 // long numero2 = 19998566685;
 // Console.WriteLine(numero2.ToString("(##) #####-####"));
+
+
+
